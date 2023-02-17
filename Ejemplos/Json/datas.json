@@ -1,0 +1,72 @@
+{
+  "DataEmail": {
+    "remitente": "sk_dante@hotmail.com",
+    "destinatarios": ["samuel.rodriguez1292085@gmail.com", "gskdante@gmail.com"],
+    "usuario": "sk_dante@hotmail.com",
+    "password": "SkyAngel7*"
+  },
+  "SQL": {
+    "connection": {
+      "connectionstr": "SERVER=10.10.50.30;DATABASE=MasterSystem;UID=ApplicationUser_;PWD=D3$@rr0ll0;",
+      "query": "exec dbo.IS_Relationships_created_Alerts"
+    }
+  },
+  "FormatsExcel": {
+    "Name_sheet": "EntityProfiles",
+    "Format_setting": {
+      "Format_date": {
+        "Format": "mm/dd/yy",
+        "Columns": []
+      },
+      "Format_number": {
+        "Format": "#,##0",
+        "Columns": [1,2,3,5]
+      } 
+    },
+    "Format_design": [
+      {
+        "Format_title": {
+          "bold": 1,
+          "border": 1,
+          "align": "center",
+          "valign": "vcenter",
+          "fg_color": "#333f4f",
+          "font_color": "white",
+          "text_wrap": true
+        },
+        "Format_heads": {
+          "bold": 1,
+          "border": 1,
+          "align": "left",
+          "valign": "top",
+          "fg_color": "#ddebf7",
+          "font_color": "black",
+          "text_wrap": false
+        },
+        "Format_datas": { "border": 1, "align": "left", "valign": "top", "text_wrap": false }
+      },
+      {
+        "Name_sheet": "Data Center",
+        "Format_title": {
+          "bold": 1,
+          "border": 1,
+          "align": "center",
+          "valign": "vcenter",
+          "fg_color": "#333f4f",
+          "font_color": "white",
+          "text_wrap": true
+        },
+        "Format_heads": {
+          "bold": 1,
+          "border": 1,
+          "align": "center",
+          "valign": "top",
+          "fg_color": "#2279E2",
+          "font_color": "black",
+          "text_wrap": true
+        },
+        "Format_datas": { "border": 1, "align": "left", "valign": "top", "text_wrap": true }
+      }
+    ]
+  }
+}

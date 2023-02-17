@@ -1,0 +1,13 @@
+{    
+  "SQL":{
+    "enabled": true,
+    "canonical": {
+        "connectionstr": "SERVER=10.10.50.30;DATABASE=masterdb;UID=ApplicationUser_;PWD=D3$@rr0ll0;",
+        "query": "exec ISDailyGetCustomers 1"
+    },
+    "messy":{
+      "connectionstr": "SERVER=10.10.50.30;DATABASE=masterdb;UID=ApplicationUser_;PWD=D3$@rr0ll0;",
+      "query": "exec ISDailyGetCustomers 2"
+    }
+  }
+}

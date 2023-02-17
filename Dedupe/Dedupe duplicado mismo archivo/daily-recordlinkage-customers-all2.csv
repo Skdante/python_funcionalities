@@ -1,0 +1,252 @@
+EntityID,EntityName,EntityRoleID,EntityRoleName,CountryID,CountryName,StateID,StateName,CityID,CityName
+2221,Hillberry Farm,2,Facility,215,United States,3608,North Carolina,133962,Garland
+2357,Perros,3,Growing Area,40,Chile,600,Tarapaca,11276,Iquique
+3092,Arnott Farms,3,Growing Area,215,United States,3585,California,0,(Not Specified)
+3316,Agr. El Peumo,2,Facility,40,Chile,0,(Not Specified),0,(Not Specified)
+3491,Antonio Toscano,2,Facility,135,Mexico,2136,Michoacan,127775,Tocumbo
+3506,Arturo Magaña Mendoza,2,Facility,135,Mexico,2136,Michoacan,127858,Los Reyes
+3632,Carlos Novoa Reyes,2,Facility,135,Mexico,2136,Michoacan,127858,Los Reyes
+3633,Carlos Oseguera Sanchez,2,Facility,135,Mexico,2136,Michoacan,127858,Los Reyes
+3746,DAVID CRISTOBAL GODINEZ,2,Facility,135,Mexico,2136,Michoacan,127882,Acuitzio
+3748,David Liberto Simon,2,Facility,135,Mexico,2136,Michoacan,127858,Los Reyes
+3806,EDGAR IVAN NOVOA GONZALES,2,Facility,135,Mexico,2136,Michoacan,127841,Periban
+3807,Edgar Oseguera Jimenez,2,Facility,135,Mexico,2136,Michoacan,127858,Los Reyes
+3842,Ernesto Barragan Torres,2,Facility,135,Mexico,2136,Michoacan,127858,Los Reyes
+3845,Evans Brothers Blueberries,2,Facility,215,United States,3590,Florida,0,(Not Specified)
+3897,Fresh Cut,2,Facility,0,(Not Specified),0,(Not Specified),0,(Not Specified)
+4076,"J&D Produce, Inc.",2,Facility,135,Mexico,2128,Colima,59015,Colima
+4082,Jaime Buenrostro VAlencia,2,Facility,135,Mexico,2136,Michoacan,127858,Los Reyes
+4109,Jorge Alfredo Valencia Soto,2,Facility,135,Mexico,2136,Michoacan,127858,Los Reyes
+4113,Jose Barajas Garcia,2,Facility,135,Mexico,2136,Michoacan,127858,Los Reyes
+4641,Shamoon,2,Facility,0,(Not Specified),0,(Not Specified),0,(Not Specified)
+4704,Stella Farms,2,Facility,0,(Not Specified),0,(Not Specified),0,(Not Specified)
+4763,Taylor Orchards,2,Facility,0,(Not Specified),0,(Not Specified),0,(Not Specified)
+5490,Carlos Nova Reyes,4,Harvest Crew,135,Mexico,2136,Michoacan,127858,Los Reyes
+5952,Agrícola La Trapa S.A,2,Facility,40,Chile,595,O'Higgins Region,0,(Not Specified)
+6696,Agricola Omega - Mexicali,2,Facility,135,Mexico,2122,Baja California,58435,Mexicali
+6697,Anthony Marano - Chicago,2,Facility,215,United States,3595,Illinois,112974,Chicago
+6698,Club Chef - Covington,2,Facility,215,United States,3598,Kentucky,114238,Covington
+6699,East Coast Fresh Cuts - Laurel,2,Facility,215,United States,3601,Maryland,115319,Laurel
+6700,Field Fresh Foods - Gardena,2,Facility,215,United States,3585,California,109995,Gardena
+6703,FreshPoint Atlanta,2,Facility,215,United States,3591,Georgia,112085,Fairburn
+6704,FreshPoint Central California,2,Facility,215,United States,3585,California,110618,Turlock
+6705,FreshPoint Central Florida,2,Facility,215,United States,3590,Florida,111675,Orlando
+6706,FreshPoint Connecticut,2,Facility,215,United States,3587,Connecticut,110995,Hartford
+6707,FreshPoint Denver,2,Facility,215,United States,3586,Colorado,110776,Denver
+6708,FreshPoint Nanaimo,2,Facility,35,Canada,509,British Columbia,10356,Nanaimo
+6709,FreshPoint Nashville - Tomato,2,Facility,215,United States,3623,Tennessee,122662,Nashville
+6710,FreshPoint South Florida,2,Facility,215,United States,3590,Florida,111732,Pompano Beach
+6712,FreshPoint Vancouver,2,Facility,35,Canada,509,British Columbia,10395,Vancouver
+6713,FreshPoint Vancouver Foodservice,2,Facility,35,Canada,509,British Columbia,10395,Vancouver
+6717,Go Fresh - Minneapolis,2,Facility,215,United States,3604,Minnesota,116385,Minneapolis
+6718,Grimmway Farms - Arvin,2,Facility,215,United States,3585,California,109679,Arvin
+6719,Hortalizas El Retoño - Mexicali,2,Facility,135,Mexico,2122,Baja California,58435,Mexicali
+6720,Mann Packing  - Salinas,2,Facility,215,United States,3585,California,110457,Salinas
+6721,Mann Packing  - Yuma,2,Facility,215,United States,3584,Arizona,109635,Yuma
+6722,Promotora Agricola El Toro - Cd Morelos,2,Facility,135,Mexico,2122,Baja California,58395,Ciudad Morelos
+6723,"Reser's Fine Foods, Inc_Linares",2,Facility,135,Mexico,2139,Nuevo Leon,61228,Linares
+6724,Simply Fresh Fruit_Vernon,2,Facility,215,United States,3585,California,132949,Vernon
+6727,Taylor Farms - Annapolis Junction,2,Facility,215,United States,3601,Maryland,142257,Annapolis Junction
+6729,Taylor Farms - Orlando,2,Facility,215,United States,3590,Florida,111675,Orlando
+6730,Taylor Farms - Smyrna,2,Facility,215,United States,3623,Tennessee,122717,Smyrna
+6735,The Garlic Company - Bakersfield,2,Facility,215,United States,3585,California,109693,Bakersfield
+6736,True Leaf Farms - San Juan Bautista,2,Facility,215,United States,3585,California,110476,San Juan Bautista
+6737,True Leaf Farms - Yuma,2,Facility,215,United States,3584,Arizona,109635,Yuma
+6740,Wholesale Produce Supply Company - Minneapolis,2,Facility,215,United States,3604,Minnesota,116385,Minneapolis
+6741,FreshPoint Southern California,2,Facility,215,United States,3585,California,0,(Not Specified)
+6761,Pruebas facility,2,Facility,135,Mexico,2145,Sinaloa,62483,Culiacan
+6901,"KN Berry Farm - Field #2, #3, #4",3,Growing Area,215,United States,3628,Washington,124645,Lynden
+6902,KN Berry Farm Field #1A/#1B,3,Growing Area,215,United States,3628,Washington,124645,Lynden
+7154,Neger Farms,3,Growing Area,35,Canada,509,British Columbia,10302,Abbotsford
+7160,Howe Chong Inc. & Wah Chong Farms Inc.,3,Growing Area,35,Canada,509,British Columbia,10324,Delta
+7169,Southern Ontario Produce Ltd.,2,Facility,35,Canada,514,Ontario,0,(Not Specified)
+7174,Herman Farms,4,Harvest Crew,215,United States,3603,Michigan,115764,Benton Harbor
+7178,Southern Ontario Produce Ltd.,4,Harvest Crew,35,Canada,514,Ontario,0,(Not Specified)
+7209,Arjuna Berry Farms Ltd.,3,Growing Area,35,Canada,509,British Columbia,10302,Abbotsford
+7277,HORTIFRUT PERU SAC,4,Harvest Crew,160,Peru,2472,La Libertad,70097,Trujillo
+7278,Agrícola Cerrillos de Tamaya S.A.,3,Growing Area,40,Chile,594,Coquimbo Region,11213,Ovalle
+7399,Tolucua Blackberry Farm,3,Growing Area,215,United States,3608,North Carolina,134807,Lawndale
+7419,Frutícola Denisse Maribel Del Carmen Salinas Martinez EIRL,2,Facility,40,Chile,597,Maule Region,11232,Curico
+7457,*TEST Ranch 1*,3,Growing Area,215,United States,3585,California,110457,Salinas
+7458,*TEST Facility 1*,2,Facility,215,United States,3585,California,110457,Salinas
+7465,Botden Orchards Ltd.,4,Harvest Crew,35,Canada,514,Ontario,155280,Thornbury
+7585,El Arrayán,2,Facility,40,Chile,588,Valparaiso,0,(Not Specified)
+7635,Laux Land #7,3,Growing Area,215,United States,3585,California,110390,Porterville
+7745,TEST Ranch 3,3,Growing Area,215,United States,3585,California,110457,Salinas
+7746,Test Ranch 2,3,Growing Area,215,United States,3585,California,110457,Salinas
+7747,TEST Facility 2,2,Facility,215,United States,3585,California,110457,Salinas
+7748,Test Facility 3,2,Facility,215,United States,3585,California,110457,Salinas
+7817,Swanton Ranch,4,Harvest Crew,215,United States,3585,California,137143,Davenport
+8761,Patates Dolbec inc.,3,Growing Area,35,Canada,516,Quebec,0,(Not Specified)
+8763,Patates Dolbec inc.,4,Harvest Crew,35,Canada,516,Quebec,0,(Not Specified)
+9842,30 Crew,4,Harvest Crew,215,United States,3585,California,110095,King City
+10021,Ranch Not Applicable,3,Growing Area,215,United States,3585,California,110499,Santa Maria
+10245,Siito Alto Galo,3,Growing Area,27,Brazil,387,Espirito Santo,0,(Not Specified)
+10295,"Just 4 Girls, LLC",4,Harvest Crew,215,United States,3591,Georgia,129484,Climax
+10325,Bananas Tropicales,2,Facility,135,Mexico,2128,Colima,59030,Tecoman
+10358,Agrícola Convento Viejo Spa,3,Growing Area,40,Chile,598,Santiago Metropolitan,0,(Not Specified)
+10410,Woodside Greenhouses Inc.,2,Facility,35,Canada,514,Ontario,150693,Leamington
+10426,Fundo Tipaume (El Cerro),3,Growing Area,40,Chile,595,O'Higgins Region,11220,Rengo
+10472,BK Orchards Ltd.,3,Growing Area,35,Canada,509,British Columbia,10367,Peachland
+10621,Crew 1 Lorenzo Pena,3,Growing Area,215,United States,3585,California,110423,Richgrove
+10681,Paez Packaging,2,Facility,215,United States,3585,California,110435,Riverside
+10712,Fazenda Tropical,2,Facility,27,Brazil,391,Minas Gerais,0,(Not Specified)
+10934,"The Land Greenhouses - Professional Interns and Staff, Agricultural Sciences",4,Harvest Crew,215,United States,3590,Florida,128415,Lake Buena Vista
+11569,aguilares JB,2,Facility,135,Mexico,2145,Sinaloa,62483,Culiacan
+11570,Zona 1 Centro,3,Growing Area,135,Mexico,2128,Colima,59030,Tecoman
+11572,Zona 2 Norte,3,Growing Area,135,Mexico,2128,Colima,59030,Tecoman
+11756,Bloom to Box,2,Facility,215,United States,3585,California,109773,Calipatria
+12147,Fazenda Boa Agua,2,Facility,27,Brazil,397,Rio Grande do Norte,8756,Barauna
+12181,Victor Manuel Solis Banda,2,Facility,40,Chile,595,O'Higgins Region,159294,San Fernando
+12236,Parcela Santa Hydee,2,Facility,40,Chile,588,Valparaiso,159351,Hijuelas
+12637,"(240)Bachan,(5992)Griffith(Primo),(1912)Griffith,(10000)Peckham,(11215)Cassin,(11248)Pavlovich,(11373)East Riverside,(11370)West Riverside,(11368)ButierSubsRASP 2018,8682Riverside,10031CarltonRASP2017",2,Facility,215,United States,3585,California,110659,Watsonville
+12639,25 Crew,3,Growing Area,215,United States,3585,California,110095,King City
+12640,25 Crew,4,Harvest Crew,215,United States,3585,California,110095,King City
+12688,Finca Monte Verde,2,Facility,135,Mexico,2125,Chiapas,58570,Chiapa de Corzo
+12908,"Nature Fresh Foods, Inc.",3,Growing Area,215,United States,3584,Arizona,109635,Yuma
+12933,Del Monte Foods,2,Facility,215,United States,3628,Washington,124842,Yakima
+13056,Chacra Rucatemu,2,Facility,40,Chile,598,Santiago Metropolitan,11255,Santiago
+16804,34,4,Harvest Crew,215,United States,3585,California,110054,Holtville
+16805,37,4,Harvest Crew,215,United States,3585,California,110054,Holtville
+16806,100,4,Harvest Crew,135,Mexico,2122,Baja California,58395,Ciudad Morelos
+16807,102,4,Harvest Crew,135,Mexico,2122,Baja California,58395,Ciudad Morelos
+16808,103,4,Harvest Crew,135,Mexico,2122,Baja California,58395,Ciudad Morelos
+16809,106,4,Harvest Crew,135,Mexico,2122,Baja California,58395,Ciudad Morelos
+16810,107,4,Harvest Crew,135,Mexico,2122,Baja California,58395,Ciudad Morelos
+16811,#17 Rodolfo Soto,4,Harvest Crew,135,Mexico,2122,Baja California,58435,Mexicali
+16812,#43 Osbaldo Gonzalez,4,Harvest Crew,135,Mexico,2122,Baja California,58435,Mexicali
+16813,#47 Fernando Uribe,4,Harvest Crew,135,Mexico,2122,Baja California,58435,Mexicali
+16814,#51 Daniel Garcia,4,Harvest Crew,135,Mexico,2122,Baja California,58435,Mexicali
+16815,#59 Denisse Meza,4,Harvest Crew,135,Mexico,2122,Baja California,58435,Mexicali
+16816,#63 German Martinez,4,Harvest Crew,135,Mexico,2122,Baja California,58435,Mexicali
+16817,ART 1,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16818,BARRON,4,Harvest Crew,135,Mexico,2131,Guanajuato,59275,Salamanca
+16819,Bell Farms Harvest Crew,4,Harvest Crew,215,United States,3591,Georgia,112203,Moultrie
+16820,Crew # 215- Gerardo Quebrado,4,Harvest Crew,215,United States,3585,California,110499,Santa Maria
+16821,Crew #10,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16822,Crew #108- Jose Luis Espinoza,4,Harvest Crew,215,United States,3585,California,110499,Santa Maria
+16823,Crew #11,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16824,Crew #2,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16825,Crew #25 Alejandro Bravo,4,Harvest Crew,215,United States,3585,California,109776,Camarillo
+16826,Crew #45 Jorge Lopez,4,Harvest Crew,215,United States,3585,California,109776,Camarillo
+16827,Crew #5,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16828,Crew #50 Vicente Guerrero,4,Harvest Crew,215,United States,3585,California,109776,Camarillo
+16829,Crew #6,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16830,Crew #7,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16831,Crew #8,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16832,Crew#4,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16833,FFC #1,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16834,FFL-2,4,Harvest Crew,215,United States,3585,California,110457,Salinas
+16835,FFL-3,4,Harvest Crew,215,United States,3585,California,110457,Salinas
+16836,FFL-4,4,Harvest Crew,215,United States,3585,California,110457,Salinas
+16837,FFL-5,4,Harvest Crew,215,United States,3585,California,110457,Salinas
+16838,Lindsey Farms Harvest Crew,4,Harvest Crew,215,United States,3591,Georgia,112203,Moultrie
+16839,Polter Harvest Crew,4,Harvest Crew,215,United States,3616,Ohio,120119,Fremont
+16840,RH-1,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16841,SM #23,4,Harvest Crew,215,United States,3585,California,109930,El Centro
+16842,Spring Mix 2,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16843,Spring Mix 3,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16844,Spring Mix 4,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+16845,Spring Mix-1,4,Harvest Crew,215,United States,3585,California,110006,Gonzales
+17315,Cooler #10,2,Facility,215,United States,3624,Texas,122985,Dallas
+17375,Duoduo chestnut orchard packinghouse,2,Facility,41,China,604,Zhejiang,11428,Taizhou
+17508,Johnson #1,3,Growing Area,215,United States,3585,California,110499,Santa Maria
+17512,Johnson #3,3,Growing Area,215,United States,3585,California,110499,Santa Maria
+17513,Johnson #2,3,Growing Area,215,United States,3585,California,110499,Santa Maria
+17860,Rose,3,Growing Area,215,United States,3584,Arizona,109635,Yuma
+17871,Backus,3,Growing Area,215,United States,3585,California,110457,Salinas
+17935,Hacienda,3,Growing Area,215,United States,3585,California,110018,Greenfield
+18432,Cutler E,3,Growing Area,215,United States,3585,California,109870,Cutler
+18437,Yellow Pine Almonds,3,Growing Area,215,United States,3585,California,110524,Shafter
+19416,Ranch 1120 (2),3,Growing Area,215,United States,3585,California,110423,Richgrove
+19489,Growers Express LLC Packing Co. - Yuma,2,Facility,215,United States,3584,Arizona,109635,Yuma
+19607,Packing de Paltas,2,Facility,40,Chile,588,Valparaiso,11151,San Antonio
+19841,Buenventura LLC,3,Growing Area,215,United States,3585,California,110292,Nipomo
+19995,Víctor Suarez Henríquez,3,Growing Area,55,Dominican Republic,824,San Jose de Ocoa,18055,San Jose de Ocoa
+20051,Hemlock North 52,3,Growing Area,215,United States,3585,California,110066,Imperial
+20150,Beachline Citrus Ranch,3,Growing Area,215,United States,3585,California,110291,Niland
+20263,Ash 80,3,Growing Area,215,United States,3585,California,110054,Holtville
+20401,Myrtus LLC.,3,Growing Area,215,United States,3585,California,109677,Arroyo Grande
+20404,280 Minto,3,Growing Area,215,United States,3585,California,110659,Watsonville
+20527,700 Airport Rd.,3,Growing Area,215,United States,3585,California,110095,King City
+20550,Boggiatto,3,Growing Area,215,United States,3585,California,109748,Brawley
+20671,Crown Citrus,3,Growing Area,215,United States,3585,California,109773,Calipatria
+20803,O6 East,3,Growing Area,215,United States,3585,California,110066,Imperial
+20861,Riverside & Walker Warehouse #8,2,Facility,215,United States,3585,California,110659,Watsonville
+21034,Bill Garvin2 Red E,3,Growing Area,215,United States,3584,Arizona,0,(Not Specified)
+21191,Palmeras,3,Growing Area,135,Mexico,2125,Chiapas,0,(Not Specified)
+21615,"Fields 106sw, 106e",3,Growing Area,215,United States,3585,California,109679,Arvin
+21813,Agricola Entre Rios SPA,2,Facility,40,Chile,594,Coquimbo Region,11212,Monte Patria
+21870,D'Arrigo Brothers,3,Growing Area,215,United States,3584,Arizona,131329,Gadsden
+21994,Veg Fresh De Basa,3,Growing Area,135,Mexico,2123,Baja California Sur,0,(Not Specified)
+22005,Merrill Farms,3,Growing Area,215,United States,3585,California,110457,Salinas
+22012,Neil Hayes,3,Growing Area,215,United States,3585,California,110006,Gonzales
+22278,"Ridge-Sweet Melon Growers, Inc",2,Facility,215,United States,3585,California,109693,Bakersfield
+22302,Campo Agricola Escalante Figueroa S.A. de C.V.,2,Facility,135,Mexico,2146,Sonora,62630,Heroica Caborca
+22431,Acarril (8061),3,Growing Area,135,Mexico,2134,Jalisco,59907,Jocotepec
+22432,Bcarril (11741),3,Growing Area,135,Mexico,2134,Jalisco,59907,Jocotepec
+22433,Escondida (9122),3,Growing Area,135,Mexico,2134,Jalisco,59907,Jocotepec
+22496,Traver 360 LLC,3,Growing Area,215,United States,3585,California,136256,Traver
+22567,Sonrise Farms LLC,2,Facility,215,United States,3591,Georgia,112066,Dublin
+22628,Dole Berry Lawndale,2,Facility,215,United States,3608,North Carolina,134242,Lakedale
+22687,6006,3,Growing Area,215,United States,3585,California,110499,Santa Maria
+22882,Packing El Carmen,2,Facility,40,Chile,595,O'Higgins Region,159289,Nancagua
+23011,KY Packing,2,Facility,215,United States,3585,California,110421,Reedley
+23083,Tudo Legal Industria e Comercio Ltda,2,Facility,27,Brazil,396,Rio de Janeiro,8690,Cachoeiras de Macacu
+23177,PGF/Pinnacle Farms,4,Harvest Crew,215,United States,3585,California,110514,Seal Beach
+23277,Blue Star Farms (Process),3,Growing Area,215,United States,3603,Michigan,115862,Fennville
+23278,Blue Star Farms (Fresh),3,Growing Area,215,United States,3603,Michigan,115862,Fennville
+23389,Burdick #2,3,Growing Area,215,United States,3585,California,110328,Orange Cove
+23403,"Famous Vineyards, LLC",3,Growing Area,215,United States,3585,California,110600,Thermal
+23456,"Corporacion Educacional de la Sociedad Nacional de Agricultura F,G.",3,Growing Area,40,Chile,598,Santiago Metropolitan,11256,Talagante
+23654,Scattini,3,Growing Area,215,United States,3585,California,109800,Castroville
+23671,Spruce Main 47,3,Growing Area,215,United States,3585,California,109748,Brawley
+23672,Spruce Main 48,3,Growing Area,215,United States,3585,California,109748,Brawley
+23692,Campaign #6,3,Growing Area,215,United States,3628,Washington,124749,Royal City
+23694,SP Campaign #14,3,Growing Area,215,United States,3628,Washington,124749,Royal City
+23730,Maglorio Cruz Farms,3,Growing Area,215,United States,3585,California,110175,Lompoc
+24089,Forestal San Lucas ltda,3,Growing Area,40,Chile,588,Valparaiso,159366,Olmue
+24929,Jelf's packinghouse,2,Facility,135,Mexico,2145,Sinaloa,62483,Culiacan
+25268,Packaging of peppers,2,Facility,35,Canada,509,British Columbia,10365,Osoyoos
+25701,Los Pinguinos,3,Growing Area,135,Mexico,2136,Michoacan,159402,Tangancicuaro
+25704,Potrero San Felipe,3,Growing Area,135,Mexico,2136,Michoacan,60934,Tacambaro de Codallos
+25729,Clemons Revocable Trust (Hodges Estate),3,Growing Area,215,United States,3585,California,110648,Visalia
+26157,2100,4,Harvest Crew,215,United States,3590,Florida,111470,Immokalee
+26751,HC # 60,4,Harvest Crew,215,United States,3585,California,110457,Salinas
+26796,130A/130B-E,3,Growing Area,215,United States,3584,Arizona,0,(Not Specified)
+26802,Jose Orlando Diaz Madrigal,3,Growing Area,135,Mexico,2135,Mexico,0,(Not Specified)
+26926,Algodones,3,Growing Area,215,United States,3584,Arizona,109588,Somerton
+26990,Wysocki Produce Farm,3,Growing Area,215,United States,3629,Wisconsin,154753,Plainfield
+26991,Fundo Bellasombra,3,Growing Area,40,Chile,588,Valparaiso,159351,Hijuelas
+26997,Rancho Camacho,3,Growing Area,135,Mexico,2146,Sonora,62680,San Luis Rio Colorado
+27759,Sociedad Agricola San Gerardo Ltd,3,Growing Area,40,Chile,597,Maule Region,11232,Curico
+29501,LA COLONIA,4,Harvest Crew,135,Mexico,2131,Guanajuato,59206,Irapuato
+30245,Test Grower,3,Growing Area,39,Chad,587,Ennedi-Ouest,11140,Fada
+30619,STA MARIA DE APALTA,3,Growing Area,40,Chile,595,O'Higgins Region,0,(Not Specified)
+32190,Sergio Saucedo 3357,3,Growing Area,135,Mexico,2122,Baja California,0,(Not Specified)
+43530,Agricola Alaya SAC,3,Growing Area,160,Peru,2485,Lima,70542,Lima
+43532,Agricola Alaya SAC,3,Growing Area,160,Peru,2473,Lambayeque,70117,Olmos
+43534,Agrícola Alaya SAC,3,Growing Area,160,Peru,2473,Lambayeque,70117,Olmos
+44356,La Meza,3,Growing Area,135,Mexico,2122,Baja California,58435,Mexicali
+44812,DEL MONTE FRESH PRODUCE CHILE S.A.,2,Facility,40,Chile,598,Santiago Metropolitan,159337,Vitacura
+74628,Sunterra,3,Growing Area,215,United States,3584,Arizona,109635,Yuma
+74807,Smilax Lat 4,3,Growing Area,215,United States,3585,California,109748,Brawley
+75407,Block 1716,3,Growing Area,135,Mexico,2146,Sonora,62607,Ciudad Obregon
+75409,Block 902,3,Growing Area,135,Mexico,2146,Sonora,62607,Ciudad Obregon
+75411,Home #18,3,Growing Area,215,United States,3585,California,110052,Hollister
+75412,La Palma,3,Growing Area,135,Mexico,2131,Guanajuato,59163,Cortazar
+75413,Agricola Moray SPR de RL de CV,3,Growing Area,135,Mexico,2134,Jalisco,59809,Ahualulco de Mercado
+75415,Alesa 3,3,Growing Area,135,Mexico,2136,Michoacan,127841,Periban
+75416,Alesa 2,3,Growing Area,135,Mexico,2136,Michoacan,127841,Periban
+75417,Alesa 1,3,Growing Area,135,Mexico,2136,Michoacan,0,(Not Specified)
+75419,Campo 06 Fundo Martin Vega,3,Growing Area,160,Peru,2479,Piura,70343,Piura
+75420,Sociedad Agricola Los Romos Ltda.,3,Growing Area,40,Chile,595,O'Higgins Region,159278,Pichidegua
+75421,P&K Farms LLC,3,Growing Area,215,United States,3585,California,110648,Visalia
+75422,Jm2tepehuajes RASP 2020 (14149),3,Growing Area,135,Mexico,2134,Jalisco,59907,Jocotepec
+75423,Agrovalle Santa Ines,3,Growing Area,135,Mexico,2134,Jalisco,60060,Zacoalco de Torres
+75424,Eduardo Jose Bustamante  Vilches,3,Growing Area,40,Chile,597,Maule Region,11235,Molina
+75426,Fazenda Otani,3,Growing Area,27,Brazil,397,Rio Grande do Norte,8753,Apodi
+75428,Hg2iglesia Vieja Org RASP 2020 (14163),3,Growing Area,135,Mexico,2134,Jalisco,59907,Jocotepec
+75429,Hh2derramadero (Subs) RASP 2020 (14164),3,Growing Area,135,Mexico,2134,Jalisco,59907,Jocotepec
+75431,Parcela 23,3,Growing Area,40,Chile,595,O'Higgins Region,11220,Rengo
+75432,Sítio Progresso,3,Growing Area,27,Brazil,384,Bahia,159539,Juazeiro

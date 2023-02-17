@@ -1,0 +1,458 @@
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>html title</title>
+</head>
+<body>
+  <div
+    bgcolor="#efeeed"
+    style="
+      margin: 0;
+      box-sizing: border-box;
+      margin: 0;
+      min-width: 100%;
+      padding: 0;
+      text-align: left;
+      width: 100% !important;
+    "
+  >
+    <table bgcolor="#efeeed" border="0" cellpadding="0" cellspacing="0" align="center" style="width: 100%">
+      <tbody>
+        <tr>
+          <td>
+            <table
+              bgcolor="#efeeed"
+              class="m_-1048985568395611003contentbody"
+              border="0"
+              cellpadding="0"
+              cellspacing="0"
+              align="center"
+              style="width: 100%"
+            >
+              <tbody>
+                <tr>
+                  <td>
+                    <center>
+                      <table
+                        bgcolor="#ffffff"
+                        class="m_-1048985568395611003content"
+                        align="center"
+                        cellpadding="0"
+                        cellspacing="0"
+                        border="0"
+                        style="margin-bottom: 0px; width: 100%"
+                      >
+                        <tbody>
+                          <tr>
+                            <td bgcolor="#ffffff">
+                              <table
+                                class="m_-1048985568395611003marginalrt"
+                                align="center"
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="margin-bottom: 35px"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td bgcolor="#f4f4f4" style="padding: 0">
+                                      <img
+                                        src="https://ci3.googleusercontent.com/proxy/5olPlAPymtg1Mq_ZYpKsFr6HUqIynM9kOx_aPvo1QSVwMRtqmcqLTISSbisz5j9hzdDL5ZNHAa2FMp9mjz6iNPDi1DY-PR3YBzuWl-xfz2LRT3yYPGiuJu9O=s0-d-e1-ft#https://www.bbva.mx/content/dam/public-web/mexico/images/ge/nb_info.png"
+                                        style="margin: 30px"
+                                        class="CToWUd"
+                                      />
+                                    </td>
+                                    <td bgcolor="#f4f4f4" style="padding: 0; width: 100%">
+                                      <p
+                                        class="m_-1048985568395611003fuente m_-1048985568395611003font1"
+                                        style="
+                                          margin-top: 30px;
+                                          margin-bottom: 30px;
+                                          margin-left: 0px;
+                                          margin-right: 50px;
+                                          color: #121212;
+                                        "
+                                      >
+                                        <h1>Alertas de correos de Seguridad</h1>
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table
+                        bgcolor="#ffffff"
+                        class="m_-1048985568395611003content"
+                        align="center"
+                        cellpadding="0"
+                        cellspacing="0"
+                        border="0"
+                        style="margin: 0px; padding-bottom: 35px; width: 100%"
+                      >
+                        <tbody>
+                          <tr>
+                            <td bgcolor="#ffffff">
+                              <table
+                                class="m_-1048985568395611003margin"
+                                align="center"
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="margin-bottom: 0px; width: 80%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td style="margin-top: 15px">
+                                      <p
+                                        class="m_-1048985568395611003fuente"
+                                        style="font-size: 13px; color: #666; font-weight: 700; margin: 0"
+                                      >
+                                        DETALLES DE CORREO
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table
+                                class="m_-1048985568395611003margin"
+                                align="center"
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="margin-bottom: 0px; width: 80%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td style="width: 100%; display: inline-block">
+                                      <p
+                                        class="m_-1048985568395611003fuente"
+                                        style="
+                                          font-size: 14px;
+                                          color: #666;
+                                          font-weight: 300;
+                                          margin: 0;
+                                          padding-top: 15px;
+                                        "
+                                      >
+                                        Nombre del apartado:
+                                      </p>
+                                      <p
+                                        class="m_-1048985568395611003fuente"
+                                        style="
+                                          font-size: 16px;
+                                          line-height: 18px;
+                                          color: #121212;
+                                          font-weight: 300;
+                                          margin: 0;
+                                        "
+                                      >
+                                        Este correo es utilizado para diagnosticas las alertas del email
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table
+                                class="m_-1048985568395611003margin"
+                                align="center"
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="margin-bottom: 0px; width: 80%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td style="width: 100%; display: inline-block">
+                                      <p
+                                        class="m_-1048985568395611003fuente"
+                                        style="
+                                          font-size: 14px;
+                                          color: #666;
+                                          font-weight: 300;
+                                          margin: 0;
+                                          padding-top: 15px;
+                                        "
+                                      >
+                                        Fecha:
+                                      </p>
+                                      <p
+                                        class="m_-1048985568395611003fuente"
+                                        style="
+                                          font-size: 16px;
+                                          line-height: 18px;
+                                          color: #121212;
+                                          font-weight: 300;
+                                          margin: 0;
+                                        "
+                                      >
+                                        2021-05-13
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table
+                                class="m_-1048985568395611003margin"
+                                align="center"
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="margin-bottom: 0px; width: 80%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td style="width: 100%; display: inline-block">
+                                      <p
+                                        class="m_-1048985568395611003fuente"
+                                        style="
+                                          font-size: 14px;
+                                          color: #666;
+                                          font-weight: 300;
+                                          margin: 0;
+                                          padding-top: 15px;
+                                        "
+                                      >
+                                        Hora:
+                                      </p>
+                                      <p
+                                        class="m_-1048985568395611003fuente"
+                                        style="font-size: 16px; color: #121212; font-weight: 300; margin: 0px"
+                                      >
+                                        12.58.29 hrs.
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table
+                                class="m_-1048985568395611003margin"
+                                align="center"
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="margin-bottom: 0px; width: 80%"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td style="width: 100%; display: inline-block">
+                                      <p
+                                        class="m_-1048985568395611003fuente"
+                                        style="
+                                          font-size: 14px;
+                                          color: #666;
+                                          font-weight: 300;
+                                          margin: 0;
+                                          padding-top: 15px;
+                                        "
+                                      >
+                                        No Error:
+                                      </p>
+                                      <p
+                                        class="m_-1048985568395611003fuente"
+                                        style="
+                                          font-size: 16px;
+                                          line-height: 18px;
+                                          color: #121212;
+                                          font-weight: 300;
+                                          margin: 0;
+                                        "
+                                      >
+                                        000050775000000009
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table
+                        bgcolor="#ffffff"
+                        class="m_-1048985568395611003content"
+                        align="center"
+                        cellpadding="0"
+                        cellspacing="0"
+                        border="0"
+                        style="margin-bottom: 0px; width: 100%; margin-bottom: 28px"
+                      >
+                        <tbody>
+                          <tr>
+                            <td bgcolor="#ffffff">
+                              <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%">
+                                
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table
+                        bgcolor="#ffffff"
+                        class="m_-1048985568395611003content"
+                        align="center"
+                        cellpadding="0"
+                        cellspacing="0"
+                        border="0"
+                        width="100%"
+                      >
+                        <tbody>
+                          <tr>
+                            <td bgcolor="#ffffff">
+                              <table
+                                align="center"
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="padding: 24px 30px 24px 30px; width: 100%; text-align: center"
+                                bgcolor="#ffffff"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="m_-1048985568395611003contacto2"
+                                      style="display: inline-block; padding: 0; width: 32%"
+                                      bgcolor="#ffffff"
+                                    >
+                                      <a
+                                        href="https://bbva.info/appbbva2020mx"
+                                        style="text-decoration: none"
+                                        target="_blank"
+                                        data-saferedirecturl="https://www.google.com/url?q=https://bbva.info/appbbva2020mx&amp;source=gmail&amp;ust=1621119692309000&amp;usg=AFQjCNFfo93DpkuPfGw1Oat_UCeq4wU-mA"
+                                        ><p
+                                          class="
+                                            m_-1048985568395611003fuente
+                                            m_-1048985568395611003contacto
+                                            m_-1048985568395611003contacto3
+                                          "
+                                          style="color: #1973b8; text-align: left; margin: 0"
+                                        >
+                                          Usa la app BBVA
+                                        </p></a
+                                      >
+                                    </td>
+                                    <td
+                                      class="m_-1048985568395611003contacto2"
+                                      style="display: inline-block; padding: 0; width: 32%"
+                                      bgcolor="#ffffff"
+                                    >
+                                      <a href="tel:800%20226%202663" style="text-decoration: none" target="_blank"
+                                        ><p
+                                          class="
+                                            m_-1048985568395611003fuente
+                                            m_-1048985568395611003contacto
+                                            m_-1048985568395611003contacto3
+                                          "
+                                          style="color: #1973b8; text-align: center; margin: 0"
+                                        >
+                                          800 226 2663
+                                        </p></a
+                                      >
+                                    </td>
+                                    <td
+                                      class="m_-1048985568395611003contacto2"
+                                      style="display: inline-block; padding: 0; width: 32%"
+                                      bgcolor="#ffffff"
+                                    >
+                                      <a
+                                        href="https://portal.bbva.mx/aplicativos/buscador-sucursales/index.jsp"
+                                        style="text-decoration: none"
+                                        target="_blank"
+                                        data-saferedirecturl="https://www.google.com/url?q=https://portal.bbva.mx/aplicativos/buscador-sucursales/index.jsp&amp;source=gmail&amp;ust=1621119692309000&amp;usg=AFQjCNGZ7l4BNN41Og8L0u-4UaHT6XcTQQ"
+                                        ><p
+                                          class="
+                                            m_-1048985568395611003fuente
+                                            m_-1048985568395611003contacto
+                                            m_-1048985568395611003contacto3
+                                          "
+                                          style="color: #1973b8; text-align: right; margin: 0"
+                                        >
+                                          Busca una sucursal
+                                        </p></a
+                                      >
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table
+                                align="center"
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="width: 100%; text-align: center"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td style="padding: 0">
+                                      <table
+                                        cellspacing="0"
+                                        cellpadding="0"
+                                        style="display: inline-block; margin-bottom: 24px"
+                                      >
+                                        <tbody>
+                                          <tr>
+                                            <td align="center">
+                                              <p
+                                                class="m_-1048985568395611003fuente m_-1048985568395611003font1"
+                                                style="text-align: center; margin-top: 0; margin-bottom: 16px"
+                                              >
+                                                Síguenos en:
+                                              </p>
+                                              <a
+                                                href="https://www.facebook.com/bbvaenmexico/"
+                                                style="text-decoration: none !important"
+                                                target="_blank"
+                                                data-saferedirecturl="https://www.google.com/url?q=https://www.facebook.com/bbvaenmexico/&amp;source=gmail&amp;ust=1621119692309000&amp;usg=AFQjCNFHK76W7my6QPv8AIJEzWhHYfsKYA"
+                                              >
+                                                <img
+                                                  src="https://ci3.googleusercontent.com/proxy/iteTFgD2CDPOIA7DlcgMqKbdPAR9kuw6Wtl4ySFOs-adbF2TulafdurJb5hOeERQ5JWt4ZfkZ83Hc7go19Ypqe8Mc5pHRDtNL1FtvjggwXYr2Yxl2cQ5Mt7EhA=s0-d-e1-ft#https://www.bbva.mx/content/dam/public-web/mexico/images/ge/facebook.png"
+                                                  style="
+                                                    width: 24px;
+                                                    max-width: 24px;
+                                                    margin-right: 6px;
+                                                    text-decoration: none;
+                                                  "
+                                                  class="CToWUd"
+                                              /></a>
+                                              <a
+                                                href="https://twitter.com/BBVA_Mex"
+                                                style="text-decoration: none !important"
+                                                target="_blank"
+                                                data-saferedirecturl="https://www.google.com/url?q=https://twitter.com/BBVA_Mex&amp;source=gmail&amp;ust=1621119692309000&amp;usg=AFQjCNGNKICTb6bgbcM4Dei4DLDgvMVpFQ"
+                                              >
+                                                <img
+                                                  src="https://ci4.googleusercontent.com/proxy/wGPonIabFLSTBbiY9wT3yl1mjtWntmhl_BqCpqCSIxL2Gfsj810JfQ3GSNAjGCFIk2XN42HdyBrlHTiLqyRweQwvtEGEGKrW9JnkaOsdkplZuzy3OWPf_iQK=s0-d-e1-ft#https://www.bbva.mx/content/dam/public-web/mexico/images/ge/twitter.png"
+                                                  style="
+                                                    width: 24px;
+                                                    max-width: 24px;
+                                                    margin-left: 6px;
+                                                    text-decoration: mone !important;
+                                                  "
+                                                  class="CToWUd"
+                                              /></a>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </center>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="yj6qo"></div>
+    <div class="adL"></div>
+  </div>
+</body>
